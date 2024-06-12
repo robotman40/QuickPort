@@ -1,5 +1,5 @@
 # QuickPort - One Codebase, Multiple Platforms
-QuickPort is a simple and easy-to-use program that wraps a Win32 application with Wine (and optionally Box64 and Box86), enabling developers to bring their applications to multiple platforms.
+QuickPort is a simple and easy-to-use Win32 wrapper that utilizes Wine (and optionally Box64 and Box86), enabling developers to bring their applications to multiple platforms.
 
 ## Can't compatibility layers be used standalone?
 That is true, but you are more likely to encounter compatibility issues, especially when developers do not officially support these solutions. With QuickPort, developers are able to test their applications against multiple environments, allowing for them to be distributed in a garuanteed environment while sparing them the development time that would come from directly porting their applications
