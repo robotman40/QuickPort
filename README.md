@@ -12,7 +12,9 @@ I do not have any Macs that could serve as testing machines and Apple already pr
 
 # Building
 **Prerequisites**
+
 • Python 3.12.1 (Note that other Python versions may work, but this program is only officially tested against the stated version)
+
 • Pyinstaller
 
 Since this is a Python script, you can simply run `main.py` and input the appropriate parameters, but it is recommended to use a compiled build. To do so, run `install.py` in the QuickPort's directory and allow it to build and once that is done, you can get started with porting your applications!
