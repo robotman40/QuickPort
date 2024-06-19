@@ -1,5 +1,3 @@
-# NOTICE: This project is still currently a work in progress. I have been making good progress however and you can expect the first version (0.0.1) to ship sometime next week
-
 # QuickPort - One Codebase, Multiple Platforms
 QuickPort is a simple and easy-to-use Win32 wrapper that utilizes Wine (in addition to Box64 and Box86), enabling developers to bring their applications to multiple platforms.
 
